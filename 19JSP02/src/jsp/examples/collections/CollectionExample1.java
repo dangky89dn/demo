@@ -26,7 +26,7 @@ public class CollectionExample1 {
         System.out.print("\t" + arrayList + "\n");
  
         List<String> linkedList = new LinkedList<String>();
-        linkedList.add("PHP");
+        linkedList.add134("PHP");
         linkedList.add("Python");
         linkedList.add("Java");
         linkedList.add("C++");
