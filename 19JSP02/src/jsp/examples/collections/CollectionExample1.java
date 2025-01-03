@@ -40,7 +40,7 @@ public class CollectionExample1 {
         hashSet.add("Java");
         hashSet.add("Java");
         hashSet.add("C++");
-        System.out.println("Các phần tử của Set");
+        System.out.println("C123ác phần tử của Set");
         System.out.print("\t" + hashSet + "\n");
  
         // new TreeMap() sẽ sắp xếp các phần tử dự vào key của chúng
